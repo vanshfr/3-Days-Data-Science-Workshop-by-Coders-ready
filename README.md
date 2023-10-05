@@ -14,4 +14,4 @@ The three-day workshop was designed to equip participants with essential skills 
   - Explore real-world applications and case studies.
 
 **Repository Contents:**
-This GitHub repository contains all workshop materials, including code samples, presentation slides, and additional resources used throughout the workshop. Feel free to access and utilize these resources to enhance your learning.
+This GitHub repository contains all workshop materials and resources used throughout the workshop. 
